@@ -39,7 +39,7 @@
     "zod-to-json-schema": "^3.23.1"
   },
   "devDependencies": {
-    "@nestjs/cli": "10.3.0",
+    "@nestjs/cli": "10.4.9",
     "@nx/js": "18.3.3",
     "@types/lodash.differencewith": "^4.5.9",
     "@types/lodash.isempty": "^4.4.7",
