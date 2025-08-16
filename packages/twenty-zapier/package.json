@@ -28,7 +28,7 @@
     "zapier-platform-core": "15.5.1"
   },
   "devDependencies": {
-    "jest": "29.7.0",
+    "jest": "30.0.5",
     "rimraf": "^3.0.2",
     "zapier-platform-cli": "^15.4.1"
   },
