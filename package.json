@@ -146,7 +146,7 @@
     "passport-jwt": "^4.0.1",
     "passport-local": "^1.0.0",
     "passport-microsoft": "^2.0.0",
-    "patch-package": "^8.0.0",
+    "patch-package": "^8.0.1",
     "pg": "^8.11.3",
     "pg-boss": "^9.0.3",
     "planer": "^1.2.0",
